@@ -5,7 +5,7 @@ This project is my approach to render thousands of grass objects at once while m
 - How to implement GPU instancing with OpenGL
 - Exploring general purpose computation with OpenGL compute shader
 - How camera frustum culling optimization works
-- How basic mesh level od details works
+- How basic mesh level of details works
 
 # Screenshots
 sample scene
